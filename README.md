@@ -1,5 +1,7 @@
 # python
 Python course
+
+
 Task 1: Basic Mathematical Operations
 
 The Task1.py program takes two numbers as input.
